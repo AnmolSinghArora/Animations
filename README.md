@@ -1,7 +1,7 @@
 # Animations
 Trying out different animations.
-->Alpha(Fading)
-->Translations
-->Scaling
-->Rotation
+-> Alpha(Fading)
+-> Translations
+-> Scaling
+-> Rotation
 
