@@ -4,6 +4,3 @@ Trying out different animations.
 -> Translations
 -> Scaling
 -> Rotation
-
-
-DF
